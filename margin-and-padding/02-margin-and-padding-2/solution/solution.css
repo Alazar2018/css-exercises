@@ -52,10 +52,11 @@ We separated it out here to make it extra clear what has changed. */
 .button-container {
   text-align: center;
   padding: 8px;
+  display: block;
+
 }
 
 button {
-  display: block;
   margin: 0 auto;
   padding: 8px 24px;
 }
